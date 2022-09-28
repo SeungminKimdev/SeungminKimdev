@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Python
+## Python &ensp ## C/C++
 ------------
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungmin_py)](https://solved.ac/seungmin_py/)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksm7250432)](https://solved.ac/ksm7250432/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungmin_py)](https://solved.ac/seungmin_py/) &ensp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksm7250432)](https://solved.ac/ksm7250432/)
 ------------
-## C/C++
-------------
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksm7250432)](https://solved.ac/ksm7250432/)
-
