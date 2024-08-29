@@ -1,9 +1,7 @@
 ## Profile
 ------------
 #### Skills
-![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,cpp,git,github,azure,docker&perline=9)](https://skillicons.dev)
 <br/>
 ------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungminKimdev&show_icons=true&theme=radical)
