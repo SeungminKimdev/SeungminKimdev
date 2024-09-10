@@ -1,7 +1,7 @@
 ## Profile
 ------------
 #### Skills
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,cpp,git,github,azure,docker&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgresql,cpp,git,github,azure,docker&perline=9)](https://skillicons.dev)
 <br/>
 ------------
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungminKimdev&show_icons=true&theme=radical) -->
