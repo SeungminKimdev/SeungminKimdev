@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:819FF7,100:DA81F5&height=150&section=header&text=%20Seungmin's%20Github&fontSize=60&fontColor=FBF2EF)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:819FF7,100:DA81F5&height=150&section=header&text=%20Seungmin's%20Github&fontSize=60&fontColor=FBF2EF&stroke=DA81F5&strokeWidth=1)
   
 </div>
 
@@ -33,6 +33,16 @@
 
 <br>
 
+<div align="center">
+
+  <h2>📊 GitHub stats</h2>
+  
+[![SeungminKimdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungminKimdev&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/SeungminKimdev/github-readme-stats)
+
+</div>
+
+<br>
+
 <div align=center>
   <h2>📝 Coding Test</h2>
 
@@ -41,15 +51,5 @@
 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungmin_py)](https://solved.ac/seungmin_py) 
 [![코드트리|실력진단-ksm7250432](https://banner.codetree.ai/v1/banner/ksm7250432)](https://www.codetree.ai/profiles/ksm7250432) 
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <h2>📊 GitHub stats</h2>
-  
-[![SeungminKimdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungminKimdev&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/SeungminKimdev/github-readme-stats)
 
 </div>
