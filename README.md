@@ -53,6 +53,6 @@
 #### C/C++ : [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ksm7250432)](https://solved.ac/ksm7250432) , Python : [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=seungmin_py)](https://solved.ac/seungmin_py)
 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungmin_py)](https://solved.ac/seungmin_py) 
-[![코드트리|실력진단-ksm7250432](https://banner.codetree.ai/v1/banner/ksm7250432)](https://www.codetree.ai/profiles/ksm7250432) 
+<!-- [![코드트리|실력진단-ksm7250432](https://banner.codetree.ai/v1/banner/ksm7250432)](https://www.codetree.ai/profiles/ksm7250432) -->
 
 </div>
